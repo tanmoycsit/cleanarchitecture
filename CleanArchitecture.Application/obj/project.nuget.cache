@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jCB2tTM4jCnr/5xXb38mCCKNApZFwSL3OAAt2MJpUzhoRB0yV18jjCuToDMC8hQ2XSkfb3PW38B1rAr56syO+w==",
+  "success": true,
+  "projectFilePath": "D:\\Repo\\clean_api\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tonmoy\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Tonmoy\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\Tonmoy\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\Repo\clean_api\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.dll
+D:\Repo\clean_api\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+D:\Repo\clean_api\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.AssemblyInfo.cs
+D:\Repo\clean_api\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.csprojAssemblyReference.cache
+D:\Repo\clean_api\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.deps.json
+D:\Repo\clean_api\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.runtimeconfig.json
+D:\Repo\clean_api\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.runtimeconfig.dev.json
+D:\Repo\clean_api\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.dll
+D:\Repo\clean_api\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.pdb
+D:\Repo\clean_api\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.pdb
+D:\Repo\clean_api\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Repo\clean_api\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.csproj.CopyComplete
+D:\Repo\clean_api\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.dll
+D:\Repo\clean_api\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.pdb
+D:\Repo\clean_api\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.genruntimeconfig.cache
